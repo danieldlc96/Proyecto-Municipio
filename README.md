@@ -1,6 +1,6 @@
 # Sistema Web de Gestión Municipal
 
-URL: delacruzsanjuan.rf.gd
+URL PROYECTO: delacruzsanjuan.rf.gd
 
 Funcionalidades:
   Registro e inicio de sesión con validación.
