@@ -1,4 +1,7 @@
 # Sistema Web de Gestión Municipal
+
+URL: delacruzsanjuan.rf.gd
+
 Funcionalidades:
   Registro e inicio de sesión con validación.
   Sistema de autenticación.
@@ -14,3 +17,5 @@ Tecnologías:
   JavaScript
   PHP
   MySQL
+
+  
